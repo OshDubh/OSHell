@@ -1,12 +1,4 @@
 /*
-By Oisín Duggan, s21328513 - Operating Systems Project 1
-duggano5/2023-ca216-myshell
-
-I acknowledge that this is my own work, except where I have clearly indicated that it is someone else's work.
-I have read and agree to https://www.dcu.ie/policies/academic-integrity-plagiarism-policy 
-*/
-
-/*
 Filename: parser.c
 Description: the program to deal with the command line input. Takes a line and decides what do do with it
 Author: duggano5

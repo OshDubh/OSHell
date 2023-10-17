@@ -1,12 +1,4 @@
 /*
-By Oisín Duggan, s21328513 - Operating Systems Project 1
-duggano5/2023-ca216-myshell
-
-I acknowledge that this is my own work, except where I have clearly indicated that it is someone else's work.
-I have read and agree to https://www.dcu.ie/policies/academic-integrity-plagiarism-policy 
-*/
-
-/*
 Filename: osh.c
 Description: the header file that contains shared definitions and includes required for all the programs
 Author: duggano5
